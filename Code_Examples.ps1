@@ -1,4 +1,4 @@
-<# For Loop Example #>
+<# This is a For Loop Example #>
 $colors = @("Red", "Blue", "Green", "Orange","Violet", "Indigo")
 $listName =@("First","Second","Thrid","Forth", "Fifth", "Sixth")
 for ($i=0; $i -lt $colors.Length; $i++){
